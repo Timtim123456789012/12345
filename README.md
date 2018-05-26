@@ -7,4 +7,7 @@ Start by accessing the `proxy.school` website.
 ## Licenses
 This Project is an open-source project. However, please leave my name inside your project when you fork this repository.
 
+## Share this project!
+Please share this project with the hashtag '#SaveTheInternet' or '#NetNeutrality'! Also, don't forget to share the link `https://proxy.school`.
+
 **Thanks.**
